@@ -1,0 +1,29 @@
+xcp_fifo.o: \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/transport/src/xcp_fifo.c \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/common/xcp_common.h \
+ C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M1_OpenLoop_ert_rtw/rtwtypes.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/toolbox/target/supportpackages/arduinotarget/include/xcp_platform_custom.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/transport/src/xcp_fifo.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/platform/default/xcp_mem_config.h
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/common/xcp_common.h:
+
+C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M1_OpenLoop_ert_rtw/rtwtypes.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2026b/toolbox/target/supportpackages/arduinotarget/include/xcp_platform_custom.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/transport/src/xcp_fifo.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/platform/default/xcp_mem_config.h:

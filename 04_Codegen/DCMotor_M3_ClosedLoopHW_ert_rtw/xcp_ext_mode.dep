@@ -1,0 +1,50 @@
+xcp_ext_mode.o: \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_mode.c \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_common.h \
+ C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M3_ClosedLoopHW_ert_rtw/ext_mode_types.h \
+ C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M3_ClosedLoopHW_ert_rtw/rtwtypes.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/include/xcp.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/common/xcp_common.h \
+ C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M3_ClosedLoopHW_ert_rtw/rtwtypes.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/toolbox/target/supportpackages/arduinotarget/include/xcp_platform_custom.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_param.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/protocol/include/xcp_internal.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/include/ext_mode.h \
+ C:/MATLAB/R2026b/simulink/include/rtw_extmode.h \
+ C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_classic_trigger.h
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_common.h:
+
+C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M3_ClosedLoopHW_ert_rtw/ext_mode_types.h:
+
+C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M3_ClosedLoopHW_ert_rtw/rtwtypes.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/include/xcp.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/common/xcp_common.h:
+
+C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M3_ClosedLoopHW_ert_rtw/rtwtypes.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/platform/include/xcp_platform.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2026b/toolbox/target/supportpackages/arduinotarget/include/xcp_platform_custom.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2026b/aCLI/data/packages/arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_param.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/server/protocol/include/xcp_internal.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/include/ext_mode.h:
+
+C:/MATLAB/R2026b/simulink/include/rtw_extmode.h:
+
+C:/MATLAB/R2026b/toolbox/coder/xcp/src/target/ext_mode/src/xcp_ext_classic_trigger.h:

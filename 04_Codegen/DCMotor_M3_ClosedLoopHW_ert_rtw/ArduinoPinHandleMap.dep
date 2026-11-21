@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2026b/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M3_ClosedLoopHW_ert_rtw/rtwtypes.h
+
+C:/Work/0001_Projects/0002_FSSympo/DCMotorControlTest/DCMotorReprTest/04_Codegen/DCMotor_M3_ClosedLoopHW_ert_rtw/rtwtypes.h:
